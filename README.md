@@ -9,7 +9,7 @@ Aplicación de escritorio desarrollada en **Java SE** que permite la gestión de
 ### 📋 Requisitos previos:
 - Tener **Java Development Kit (JDK) 17 o superior** instalado.
 - Tener **NetBeans IDE 18** instalado.
-- 
+---
 ## Instrucciones para abrir el proyecto en NetBeans
 1. Clona este repositorio desde GitHub:
 2. Abre NetBeans.
